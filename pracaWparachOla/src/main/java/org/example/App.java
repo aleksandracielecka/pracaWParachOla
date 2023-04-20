@@ -56,7 +56,17 @@ public class App
         }
         System.out.println(srednia);
 
-        // Hej 
+        // Hej
+        //Zadanie 4:
+//Stwórz tablicę imion (z powtórzeniami) i następnie policz, ile razy występuje w niej imię "Jan".
+
+        String [] imiona = new String [] {"Jan", "Zosia", "Ela", "Jan", "Kasia", "Jan"};
+//       Integer count = 0;
+//       for ( String imie = imiona);{
+//           if (imie.equalsIgnoreCase("Jan")){
+//               count++;
+           }
+       }
     }
 
 
